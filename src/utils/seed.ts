@@ -245,7 +245,7 @@ export const seedInitialData = async (): Promise<void> => {
           price: 175,
           duration: 90,
           image:
-            "https://images.unsplash.com/photo-1512290900672-1f0236a0c4b7?auto=format&fit=crop&w=1000&q=80",
+            "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=1000&q=80",
           status: "active",
           featured: true,
         },
